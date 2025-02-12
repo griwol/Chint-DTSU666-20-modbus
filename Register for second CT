@@ -1,0 +1,7 @@
+1306 (HEX) = 4870 (DEZ) ist die Gesamt-Wirkleistung in Watt der 2. CT's | Signed 32 bit (Big Endian)
+
+1308 (HEX) = 4872 (DEZ) ist die Leistung Phase A in Watt | Signed 32 bit (Big Endian)
+
+130A (HEX) = 4874 (DEZ) ist die Leistung Phase B in Watt | Signed 32 bit (Big Endian)
+
+130C (HEX) = 4876 (DEZ) ist die Leistung Phase C in Watt | Signed 32 bit (Big Endian)
